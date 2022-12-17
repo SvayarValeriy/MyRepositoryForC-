@@ -1,0 +1,15 @@
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\bin\Debug\net7.0\Seminar_1.exe
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\bin\Debug\net7.0\Seminar_1.deps.json
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\bin\Debug\net7.0\Seminar_1.runtimeconfig.json
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\bin\Debug\net7.0\Seminar_1.dll
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\bin\Debug\net7.0\Seminar_1.pdb
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\obj\Debug\net7.0\Seminar_1.csproj.AssemblyReference.cache
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\obj\Debug\net7.0\Seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\obj\Debug\net7.0\Seminar_1.AssemblyInfoInputs.cache
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\obj\Debug\net7.0\Seminar_1.AssemblyInfo.cs
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\obj\Debug\net7.0\Seminar_1.csproj.CoreCompileInputs.cache
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\obj\Debug\net7.0\Seminar_1.dll
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\obj\Debug\net7.0\refint\Seminar_1.dll
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\obj\Debug\net7.0\Seminar_1.pdb
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\obj\Debug\net7.0\Seminar_1.genruntimeconfig.cache
+C:\Users\yasva\Desktop\C_Sharp\Seminar_1\obj\Debug\net7.0\ref\Seminar_1.dll
