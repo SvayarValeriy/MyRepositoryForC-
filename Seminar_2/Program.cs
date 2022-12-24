@@ -91,8 +91,10 @@ int dayNumber = Convert.ToInt32(Console.ReadLine());
 
 CheckingTheDayOfTheWeek(dayNumber);
 
-*/
 
+// Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, 
+// и проверяет, является ли этот день выходным.
+// Вариант 2
 bool CheckingTheDayOfTheWeek(int dayWeek)
 {
     if(dayWeek == 6 || dayWeek == 7)
@@ -106,7 +108,10 @@ Console.Write("Введите цифру дня недели: ");
 int dayNumber = Convert.ToInt32(Console.ReadLine());
 CheckingTheDayOfTheWeek(dayNumber);
 
-if(CheckingTheDayOfTheWeek(dayNumber))
+if (dayNumber < 1 || dayNumber > 7)
+    Console.WriteLine("Такого дня недели не существует.");
+else if(CheckingTheDayOfTheWeek(dayNumber))
     Console.WriteLine($"{dayNumber} -> да");
 else
     Console.WriteLine($"{dayNumber}  -> нет");
+*/
